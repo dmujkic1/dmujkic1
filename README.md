@@ -1,5 +1,6 @@
-## Hi there 👋
-<img align="left" src="https://github.com/user-attachments/assets/08ad02eb-a636-429b-8083-14c19120a6e1" alt="Daris Mujkić" width=25% height=25%>
+## Welcome to my GitHub profile! 👋
+### (work in progress...) 🛠️
+<img align="left" src="https://github.com/user-attachments/assets/08ad02eb-a636-429b-8083-14c19120a6e1" alt="Daris Mujkić" width=26.74%>
 
 ```kt
 const firstName = 'Daris';
@@ -7,6 +8,8 @@ const lastName = 'Mujkić';
 val age = 21;
 var location = 'Sarajevo';
 ```
+[![Daris's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmujkic1&show_icons=true&hide=stars,contribs&theme=merko&border_radius=12.5&card_width=270px&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmujkic1&layout=compact&card_width=170px&theme=merko&border_radius=12.5)
 
 <!--
 **dmujkic1/dmujkic1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
