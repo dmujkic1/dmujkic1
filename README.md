@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![Daris Mujkić](https://cdn.discordapp.com/attachments/691624368005972058/1319485370613891072/ProfilePhoto.jpg?ex=67662203&is=6764d083&hm=33eaae35c0103e2a6fb80de62ce700c0295e67aed1b917176eaabd0b8de31cb6&)
-```
+```kt
 const firstName = 'Daris';
 const lastName = 'Mujkić';
 val age = 21;
