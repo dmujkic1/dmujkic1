@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Daris Mujkić](https://cdn.discordapp.com/avatars/523846033818517505/9993686b0da81d6c49520c19eaf13c72?size=1024)
 
 <!--
 **dmujkic1/dmujkic1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
