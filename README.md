@@ -8,7 +8,7 @@ const lastName = 'Mujkić';
 val age = 21;
 var location = 'Sarajevo';
 ```
-[![Daris's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmujkic1&show_icons=true&hide=contribs&theme=merko&border_radius=12.5&rank_icon=github&card_width=300px)](https://github.com/anuraghazra/github-readme-stats)
+[![Daris's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmujkic1&show_icons=true&hide=contribs&theme=merko&border_radius=12.5&rank_icon=github&card_width=310px)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmujkic1&layout=compact&card_width=170px&theme=merko&border_radius=12.5)
 
 <!--
