@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile! 👋
 ### (work in progress...) 🛠️
-<img align="left" src="https://github.com/user-attachments/assets/08ad02eb-a636-429b-8083-14c19120a6e1" alt="Daris Mujkić" width=26.74%>
+<img align="left" src="https://github.com/user-attachments/assets/08ad02eb-a636-429b-8083-14c19120a6e1" alt="Daris Mujkić" width=40.74%>
 
 ```kt
 const firstName = 'Daris';
