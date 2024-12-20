@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Daris Mujkić](https://cdn.discordapp.com/attachments/691624368005972058/1319485370613891072/ProfilePhoto.jpg?ex=67662203&is=6764d083&hm=33eaae35c0103e2a6fb80de62ce700c0295e67aed1b917176eaabd0b8de31cb6&)
+<img align="left" src="https://github.com/user-attachments/assets/08ad02eb-a636-429b-8083-14c19120a6e1" alt="Daris Mujkić" width=25% height=25%>
+
 ```kt
 const firstName = 'Daris';
 const lastName = 'Mujkić';
