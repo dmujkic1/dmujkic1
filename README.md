@@ -1,5 +1,5 @@
 ## Welcome to my GitHub profile! 👋
-### (work in progress...) 🛠️
+### (work in progress...commits incoming) 🛠️
 <img align="left" src="https://github.com/user-attachments/assets/08ad02eb-a636-429b-8083-14c19120a6e1" alt="Daris Mujkić" width=44.5%>
 
 ```kt
