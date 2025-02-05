@@ -5,7 +5,7 @@
 ```kt
 const firstName = 'Daris';
 const lastName = 'Mujkić';
-val age = 21;
+val age = 22;
 var location = 'Sarajevo';
 ```
 [![Daris's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmujkic1&show_icons=true&hide=contribs&theme=merko&border_radius=12.5&rank_icon=github&card_width=300px)](https://github.com/anuraghazra/github-readme-stats)
